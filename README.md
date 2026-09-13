@@ -6,7 +6,7 @@
 
 • **Frontend**
 
-Modern web development, responsive design, and performance-driven UI.
+Modern development, responsive design, and performance-driven UI.
 
 > Native apps or web-based React.js, Next.js, Three.js, CSS3, HTML5._
 
