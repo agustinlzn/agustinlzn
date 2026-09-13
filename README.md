@@ -1,6 +1,6 @@
 **Software Engineer** & **Full-Stack Dev.**
 
-4+ years of experience as a Software Developer specialized in building, testing, and maintaining scalable software.
+4+ years of experience as a software engineer specialized in building, testing, and maintaining scalable software.
 
 ---
 
