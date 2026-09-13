@@ -1,6 +1,6 @@
 **Software Engineer** & **Full-Stack Dev.**
 
-4+ years of experience as a Software Developer specialized in building, testing, and maintaining scalable web applications.
+4+ years of experience as a Software Developer specialized in building, testing, and maintaining scalable software.
 
 ---
 
@@ -8,7 +8,7 @@
 
 Modern web development, responsive design, and performance-driven UI.
 
-> _JavaScript (ES6+), React.js, Next.js, Three.js, CSS3, HTML5._
+> Native apps or web-based React.js, Next.js, Three.js, CSS3, HTML5._
 
 
 • **Backend**
